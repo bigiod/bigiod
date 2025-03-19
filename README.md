@@ -5,11 +5,11 @@ Hi，你好，我是MetaX，真极AI数字工厂的创始人，Web3 & AI产品�
 - 📚我深知Web3.0和AI对普通人的意义，我开源了『ENS+IPFS』去中心化网站构建方法和基于Web3.0的AI内容创作和共享收益模式。其根本目的是为了帮助创作者们，能将自己通过AI创造出的智慧成果转化为数字资产，并且让自己完全掌控数据的所有权和未来的收益分配权。
 ---
 ### 也许你需要：
-- 👨‍💻我的经历：[关于我，一个平凡人的AI成长史](https://zhangxuan.ai)
-- 📚开源作品：[Famland元宇宙](https://famland.world) | [8xWorld](https://8x.world/) | [斗极元宇宙导航](https://www.metabd.cc) |  [AI超级个体方法论](https://www.metabd.cc) 
-- ⭐️干货分享：[和AI做个朋友](https://8x.world) / [网站](https://8x.world/) / [微信公众号](https://8x.word/) / [小程序](https://8x.world) / [视频号](https://8x.world/) | [小红书](https://www.xiaohongshu.com/user/profile/59f87643db2e602e550c9714) | [Bilibili](https://space.bilibili.com/320520702) | [Youtube](https://www.youtube.com/@metaxmeta)
-- 💬学习交流：[荔课AI学习](https://8x.world) | [AI超级个体](https://8x.world) | [和AI做个朋友社区](https://8x.world) 
-- 🤖AI知识库：[DeepSeek](https://8x.world) | [AI自动化工作流](https://8x.world) | [指令工程](https://8x.world) | [Web3基础知识](https://8x.world) | [去中心化网站](https://8x.world)
+- 👨‍💻我的经历：[关于我，一个普通人的AI超级个体成长叙事](https://zhangxuan.ai/timeline/))
+- 📚开源作品：[MetaX的AI超级个体门户](https://zhangxuan.ai) | [Famland元宇宙](https://famland.world) | [斗极元宇宙导航](https://www.metabd.cc) 
+- ⭐️干货分享：[和AI做个朋友](https://zhangxuan.ai/) / [网站](https://zhangxuan.ai/) / [微信公众号](https://zhangxuan.ai/) / [小程序](https://zhangxuan.ai) / [视频号](https://zhangxuan.ai/) | [小红书](https://www.xiaohongshu.com/user/profile/59f87643db2e602e550c9714) | [Bilibili](https://space.bilibili.com/320520702) | [Youtube](https://www.youtube.com/@metaxmeta)
+- 💬学习交流：[荔课AI学习](https://zhangxuan.ai) | [AI超级个体](https://zhangxuan.ai) | [和AI做个朋友社区](https://zhangxuan.ai) 
+- 🤖AI知识库：[DeepSeek](https://zhangxuan.ai/columns/deepseek/) | [AI自动化工作流](https://zhangxuan.ai/columns/ai-automated-earning/)) | [指令工程](https://zhangxuan.ai) | [Web3基础知识](https://zhangxuan.ai) | [去中心化网站](https://zhangxuan.ai/columns/ens-ipfs-dwebsite/)
 ---
 ### 我的近期成就✨
 - ✏️技术开发：不写一行代码，一个人，一个月的时间，独立完成『和AI做个朋友』微信小程序的开发测试，部署上线运营。这是一款可模块化搭建的微信小程序，融合了知识付费、会员订阅、知识库、广告管理、线上商城、粉丝社区、任务活动管理等模块。
