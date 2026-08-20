@@ -44,7 +44,7 @@
 
 [![Star](https://img.shields.io/badge/Star-metax--knowledge--base-E63946?style=for-the-badge&logo=github)](https://github.com/bigiod/metax-knowledge-base)
 
-四目录最小可用原型 + 单文件 CLI 引擎，零依赖、零 API key，MIT 协议：
+四目录最小可用原型 + 单文件 CLI 引擎，零依赖、零 API key，MIT 协议，多客户端直接可用：
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-2B2D42?style=flat-square)
 ![Codex](https://img.shields.io/badge/Codex-%E2%9C%93-2B2D42?style=flat-square)
@@ -52,13 +52,6 @@
 ![CodeBuddy](https://img.shields.io/badge/CodeBuddy-%E2%9C%93-2B2D42?style=flat-square)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-%E2%9C%93-2B2D42?style=flat-square)
 ![Hermes](https://img.shields.io/badge/Hermes-%E2%9C%93-2B2D42?style=flat-square)
-
-```text
-样本知识库/
-├── AGENTS.md                        # 指令真身：装载 + 纪律 + 导航
-├── 品牌/   业务/   工具/   记忆/      # 四角色目录
-└── 工具/metax-knowledge-base-cli/    # 引擎：health / add / list / promote
-```
 
 ## 🏆 为什么信它
 
