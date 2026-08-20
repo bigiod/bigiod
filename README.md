@@ -22,7 +22,7 @@
 重度用 AI——Claude Code / Cursor / ChatGPT 天天开，却始终：
 
 | 痛点 | 你每天在付的代价 |
-|:---:|:---|
+|:---|:---|
 | 🔄 **AI 失忆** | 昨天教过的东西，新开窗口全部清零——每天早上给 AI 重新上岗培训 |
 | 🎭 **没人味** | 产出一股机器腔，你的调性、你的读者、你的红线，它始终学不会 |
 | 🧱 **每次从零开始** | 收藏了几百条 prompt，真干活时还得从头介绍「我是谁、写给谁、要什么」 |
@@ -35,7 +35,7 @@
 不教单次提问，搭一套越用越懂你的 AI 系统：
 
 | 层 | 干什么 | 一句话比喻 |
-|:---:|:---|:---|
+|:---|:---|:---|
 | **① CLAUDE.md 路由** | AI 一进门就知道你是谁、写给谁、什么调性 | 🧭 门牌 + 说明书 |
 | **② 记忆系统** | 规则、偏好、项目、外链沉淀为可调用记忆，跨会话不失忆 | 🗄️ 长期记忆，不是聊天记录 |
 | **③ Skill / MCP / CLI 三件套** | 选题、生产、发布整条创作管线工程化 | 🦾 给 AI 装上手、眼、腿 |
@@ -49,6 +49,9 @@
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-2B2D42?style=flat-square)
 ![Codex](https://img.shields.io/badge/Codex-%E2%9C%93-2B2D42?style=flat-square)
 ![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-%E2%9C%93-2B2D42?style=flat-square)
+![CodeBuddy](https://img.shields.io/badge/CodeBuddy-%E2%9C%93-2B2D42?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-%E2%9C%93-2B2D42?style=flat-square)
+![Hermes](https://img.shields.io/badge/Hermes-%E2%9C%93-2B2D42?style=flat-square)
 
 ```text
 样本知识库/
@@ -63,7 +66,7 @@
 
 | 证明 | 口径 |
 |:---|:---|
-| 🎓 **19 项证书 · 11 家机构颁发** | AWS · Microsoft · NVIDIA · 华为 · Yale · 联合国 ITCILO …（[LinkedIn 复核](https://www.linkedin.com/in/aizx/)） |
+| 🎓 **19 项证书 · 11 家机构颁发** | AWS · Microsoft · NVIDIA · 华为 · Yale · 联合国 ITCILO …（[LinkedIn](https://www.linkedin.com/in/aizx/)） |
 | 🚀 **一人一月，零代码上线小程序** | 2024 年独立完成『卜我』开发、测试、部署、运营 |
 | ⚙️ **30+ 个系统化工作流** | 从 n8n 到 Claude Code，工程化能力一层层长出来 |
 | 📈 **小红书 1.1 万关注** | AI 主题日更起号，粉赞比 1:5 |
