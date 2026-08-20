@@ -1,19 +1,88 @@
-### 我是你的终身学习伙伴
-Hi，你好，我是MetaX，真极AI数字工厂的创始人，Web3 & AI产品经理 + AI知识博主 + 创业者。
-- 👨‍💻我的座右铭是：学知识、致良知、开世界，每天进步一点点；
-- 🌱热爱分享，是我近10多年从事IT领域工作，一直保持的习惯，尤其对前沿技术性知识，通过我的讲解，更通俗易懂；
-- 📚我深知Web3.0和AI对普通人的意义，我开源了『ENS+IPFS』去中心化网站构建方法和基于Web3.0的AI内容创作和共享收益模式。其根本目的是为了帮助创作者们，能将自己通过AI创造出的智慧成果转化为数字资产，并且让自己完全掌控数据的所有权和未来的收益分配权。
+<div align="center">
+
+# 让 AI 更懂你
+
+**Growing an AI that knows you — not another prompt collection.**
+
+AI 失忆、没人味、每次从零开始？
+把 prompt 收藏夹，换成一套**越用越懂你**的系统。
+
+`26 个 Skill` `3000+ 条记忆索引` `开源核心 · MIT`
+
+</div>
+
 ---
-### 也许你需要：
-- 👨‍💻我的经历：[关于我，一个普通人的AI超级个体成长叙事](https://zhangxuan.ai/timeline/))
-- 📚开源作品：[MetaX的AI超级个体门户](https://zhangxuan.ai) | [Famland元宇宙](https://famland.world) | [斗极元宇宙导航](https://www.metabd.cc) 
-- ⭐️干货分享：[和AI做个朋友](https://zhangxuan.ai/) / [网站](https://zhangxuan.ai/) / [微信公众号](https://zhangxuan.ai/) / [小程序](https://zhangxuan.ai) / [视频号](https://zhangxuan.ai/) | [小红书](https://www.xiaohongshu.com/user/profile/59f87643db2e602e550c9714) | [Bilibili](https://space.bilibili.com/320520702) | [Youtube](https://www.youtube.com/@metaxmeta)
-- 💬学习交流：[荔课AI学习](https://zhangxuan.ai) | [AI超级个体](https://zhangxuan.ai) | [和AI做个朋友社区](https://zhangxuan.ai) 
-- 🤖AI知识库：[DeepSeek](https://zhangxuan.ai/columns/deepseek/) | [AI自动化工作流](https://zhangxuan.ai/columns/ai-automated-earning/)) | [指令工程](https://zhangxuan.ai) | [Web3基础知识](https://zhangxuan.ai) | [去中心化网站](https://zhangxuan.ai/columns/ens-ipfs-dwebsite/)
+
+## 你是不是也这样
+
+重度用 AI——Claude Code / Cursor / ChatGPT 天天开，却始终：
+
+| 痛点 | 你每天在付的代价 |
+|---|---|
+| **AI 失忆** | 昨天教过的东西，新开窗口全部清零——每天早上给 AI 重新上岗培训 |
+| **没人味** | 产出一股机器腔，你的调性、你的读者、你的红线，它始终学不会 |
+| **每次从零开始** | 收藏了几百条 prompt，真干活时还得从头介绍「我是谁、写给谁、要什么」 |
+
+**prompt 是零件，系统是整车——零件每次重装，整车越开越顺。**
+
+## 我每天在跑的系统：让 AI 懂你的三层工程
+
+不教单次提问，搭一套越用越懂你的 AI 系统：
+
+| 层 | 干什么 | 一句话比喻 |
+|---|---|---|
+| **① CLAUDE.md 路由** | AI 一进门就知道你是谁、写给谁、什么调性 | 门牌 + 说明书 |
+| **② 记忆系统** | 规则、偏好、项目、外链沉淀为可调用记忆，跨会话不失忆 | 长期记忆，不是聊天记录 |
+| **③ Skill / MCP / CLI 三件套** | 选题、生产、发布整条创作管线工程化 | 给 AI 装上手、眼、腿 |
+
+**开源核心已就位** → [metax-knowledge-base](https://github.com/bigiod/metax-knowledge-base)
+
+四目录最小可用原型 + 单文件 CLI 引擎，零依赖、零 API key，
+Claude Code / Codex / Gemini CLI 等多客户端通用，MIT 协议拿走就能跑：
+
+```text
+样本知识库/
+├── AGENTS.md                        # 指令真身：装载 + 纪律 + 导航
+├── 品牌/   业务/   工具/   记忆/      # 四角色目录
+└── 工具/metax-knowledge-base-cli/    # 引擎：health / add / list / promote
+```
+
+## 为什么信它
+
+我不教我没用过的——这套系统我每天在跑，是活证据。
+
+| 证明 | 口径 |
+|---|---|
+| **19 项证书 · 11 家机构颁发** | AWS · Microsoft · NVIDIA · 华为 · Yale · 联合国 ITCILO …（[LinkedIn 复核](https://www.linkedin.com/in/aizx/)） |
+| 一人一月，零代码上线小程序 | 2024 年独立完成『卜我』开发、测试、部署、运营 |
+| 30+ 个系统化工作流 | 从 n8n 到 Claude Code，工程化能力一层层长出来 |
+| 小红书 1.1 万关注 | AI 主题日更起号，粉赞比 1:5 |
+
+## 它不适合谁（说清楚，省得浪费你时间）
+
+- 想找「一键躺赚」神奇 prompt 的——这里只有每天进步一点点的工程
+- 只想收藏、不想动手搭的——系统长在实践里，不长在收藏夹里
+
+**但如果你是把 AI 当真生产力、想让它长成懂你样子的人，从这里开始：**
+
+## 让 AI 开始懂你
+
+<div align="center">
+
+### 关注公众号『卜我』
+
+**我亲测实践，让 AI 懂你。**
+
+三层工程拆解、Skill 配方、踩坑复盘——这套系统怎么一天天长出来，全部第一时间发在这里。
+
+![公众号『卜我』二维码](assets/qrcode-buwo.jpg)
+
+微信号：`hibuwo`（扫上方二维码，或微信搜索关注）
+
+</div>
+
 ---
-### 我的近期成就✨
-- ✏️技术开发：不写一行代码，一个人，一个月的时间，独立完成『和AI做个朋友』微信小程序的开发测试，部署上线运营。这是一款可模块化搭建的微信小程序，融合了知识付费、会员订阅、知识库、广告管理、线上商城、粉丝社区、任务活动管理等模块。
-  
-- 🌱社区运营：小红书开号，主要分享AI知识和技能，从零粉起步，坚持每日分享，三个月时间，粉丝达到一万人左右，粉赞比达到1:5。截止目前，已经产出2篇10万级和8篇10000+播放量的短视频笔记，已收到包括Kimi、可灵AI、夸克在内的多家等AI机构的笔记合作邀约。
-  
-- 📚学习成长：最近半年时间，我获得了包括联合国教科文组织、世界劳工组织、微软、谷歌云、英伟达、华为云、亚马逊、领英、Datawhle等多个机构和组织颁发的18项AI职业技能证书。涉及领域包括生成式人工智能、AI产品管理、AI伦理、AI搜索、Prompt工程师、Fine-tuning工程师、AI大模型开发工程师、AI Coding工程师、Agent工程师等。目前我正在学习哈佛大学、斯坦福大学、卡耐基梅隆大学、IBM、英伟达等机构开设的人工智能和区块链课程。
+
+**其他入口**：[zhangxuan.ai](https://zhangxuan.ai) · [小红书](https://www.xiaohongshu.com/user/profile/59f87643db2e602e550c9714) · [Bilibili](https://space.bilibili.com/320520702) · [X @MetaversePlus](https://x.com/MetaversePlus) · [LinkedIn](https://www.linkedin.com/in/aizx/) ｜ 商务：tybcc@126.com
+
+> 学知识、致良知、开世界——普通人的持续微迭代，终将在数字世界兑换出真实价值。
