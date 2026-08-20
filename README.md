@@ -50,8 +50,7 @@
 ![Codex](https://img.shields.io/badge/Codex-%E2%9C%93-2B2D42?style=flat-square)
 ![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-%E2%9C%93-2B2D42?style=flat-square)
 ![CodeBuddy](https://img.shields.io/badge/CodeBuddy-%E2%9C%93-2B2D42?style=flat-square)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-%E2%9C%93-2B2D42?style=flat-square)
-![Hermes](https://img.shields.io/badge/Hermes-%E2%9C%93-2B2D42?style=flat-square)
+![DeepSeek Hermes](https://img.shields.io/badge/DeepSeek%20Hermes-%E2%9C%93-2B2D42?style=flat-square)
 
 ## 🏆 为什么信它
 
